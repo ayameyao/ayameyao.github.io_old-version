@@ -14,18 +14,21 @@ Education
 * B.S. Software Engineer, Tianjin Agricultural University, 2017
 * M.S. Computer Science, China Agricultural University, 2020 (expected)
 
-Work experience
+Research Areas
 ======
-* Fall 2018: Course Assistant
-  * China Agricultural University
-  * Duties included: Tutoring and debugging code
-  * Course Title: C Language Programming
+* Computer Vision
+  * Object Detection
+  * Behavior Analysis
+  * Image restoration
+* Agricultural informationization
 
-* Fall 2017: Course Assistant
-  * China Agricultural University
-  * Duties included: Teaching secretary
-  * Course Title: Computer Vision Algorithm and Application
-  
+Projects
+======
+* Research on Multi-water Source Integrated Supervision Technology in Grassland based on Internet of Things
+  * International Cooperation Projects (2015DFA00530)
+* Key Technology Integration and Demonstration of Precise Management and Control of Marine Shellfish Breeding
+  * Key Research and Development Plan, ShanDong, China (2016CYJS03A02)
+ 
 Professional Skills
 ======
 * Familiar with programming languages such as C, Python, Java, MATLAB
@@ -42,7 +45,43 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Invention Patents
+======
+* Zhenbo Li and **Guangyao Li** etc., Method and system for defogging enhancement of underwater sea cucumber image，2018.10.12，CN108648160A，China
+* Zhenbo Li and **Guangyao Li** etc., A dangerous behavior recognition method in family environment，2018.09.14，CN108537105A，China
+* Zhenbo Li and **Guangyao Li** etc., Object detection method and device for shellfish image，2019.05.28，201910450044.7, China
+
+Software Copyright
+======
+* Zhenbo Li and **Guangyao Li** etc., Shellfish seedling pest and disease intelligent diagnosis platform system V1.0，Authorization Registration Number: 2018SRBJ1250
+* Zhenbo Li and **Guangyao Li** etc., Four-axis aircraft control system based on C language and single chip technology V1.0，Authorization Registration Number: 2018SRBJ1248
+* Zhenbo Li and **Guangyao Li** etc., Music portal system based on Bootstrap technology V1.0，Authorization Registration Number: 2018SRBJ1251
+
+Honor
+======
+* The First Prize Scholarship, China Agricultural University, 2018
+* Merit Student, China Agricultural University, 2018
+* National Encouragement scholarship, Tianjin Agricultural University, 2016
+* The First Prize Scholarship, China Agricultural University, 2016
+
+Hobbies
+======
+* Play badminton
+* Photography
+
+Work experience
+======
+* Fall 2018: Course Assistant
+  * China Agricultural University
+  * Duties included: Tutoring and debugging code
+  * Course Title: C Language Programming
+
+* Fall 2017: Course Assistant
+  * China Agricultural University
+  * Duties included: Teaching secretary
+  * Course Title: Computer Vision Algorithm and Application
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -58,3 +97,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
