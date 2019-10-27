@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,24 +16,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Course Assistant
+  * China Agricultural University
+  * Duties included: Tutoring and debugging code
+  * Course Title: C Language Programming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: Course Assistant
+  * China Agricultural University
+  * Duties included: Teaching secretary
+  * Course Title: Computer Vision Algorithm and Application
   
-Skills
+Professional Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Familiar with programming languages such as C, Python, Java, MATLAB
+* Familiar with the basic framework of deep learning
+  * Caffe
+  * TensorFlow
+* Familiar with the basic methods of writing SCI/EI papers
+* Familiar with basic theories such as machine learning/deep learning
+* Familiar with the frontier development direction and mainstream algorithms in the field of computer vision
+* Familiar with the use of PS/PR and other image/video processing tools
 
 Publications
 ======
