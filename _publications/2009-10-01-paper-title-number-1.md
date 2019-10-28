@@ -6,10 +6,10 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-10-01
 venue: 'PRCV2019'
 paperurl: 'http://ayameyao.github.io/files/paper1.pdf'
-citation: 'Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).'
+citation: 'Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).[Download paper here](http://academicpages.github.io/files/paper1.pdf)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).
+**Recommended citation:** Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).
