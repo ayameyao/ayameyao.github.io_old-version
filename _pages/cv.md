@@ -13,7 +13,11 @@ Education
 ======
 * B.S. Software Engineering, Tianjin Agricultural University, 09/2013-06/2017
 * B.S. Software Engineering, Tianjin Institute of Software Engineering, 09/2016-06/2017
-* M.S. Computer Science, China Agricultural University, 09/2017-06/2020 (expected)
+* M.S. Computer Science and Technology, China Agricultural University, 09/2017-06/2020 (expected)
+
+Exchange Experience Abroad
+======
+* The Iowa (US)‐Southeast Asia biodiversity conference, Iowa State University, USA, 09/2019
 
 Research Areas
 ======
@@ -22,13 +26,6 @@ Research Areas
   * Behavior Analysis
   * Image restoration
 * Agricultural informationization
-
-Projects
-======
-* Research on Multi-water Source Integrated Supervision Technology in Grassland based on Internet of Things
-  * International Cooperation Projects (2015DFA00530)
-* Key Technology Integration and Demonstration of Precise Management and Control of Marine Shellfish Breeding
-  * Key Research and Development Plan, ShanDong, China (2016CYJS03A02)
  
 Professional Skills
 ======
@@ -38,6 +35,21 @@ Professional Skills
 * Familiar with basic theories such as machine learning/deep learning
 * Familiar with the frontier development direction and mainstream algorithms in the field of computer vision
 * Familiar with the use of PS/PR and other image/video processing tools
+
+Competition Experience
+======
+* Lan Qiao Cup Programming Competition, Provincial Second Prize 
+* Mathematical Modeling Competition, Provincial Second Prize
+* Computer Design Competition, National Third Prize
+
+Project Experience
+======
+* Research on Multi-water Source Integrated Supervision Technology in Grassland based on Internet of Things
+  * International Cooperation Projects (2015DFA00530)
+* Key Technology Integration and Demonstration of Precise Management and Control of Marine Shellfish Breeding
+  * Key Research and Development Plan, ShanDong, China (2016CYJS03A02)
+* Design and Implementation of Scanning Code Sign-in System Based on WeChat
+  * College Students' Innovation and Entrepreneurship Training Program, Tianjin (201510061103)
 
 Publications
 ======
@@ -58,7 +70,7 @@ Invention Patents
 * Zhenbo Li and **Guangyao Li** etc., A dangerous behavior recognition method in family environment，2018.09.14，CN108537105A，China
 * Zhenbo Li and **Guangyao Li** etc., Object detection method and device for shellfish image，2019.05.28，201910450044.7, China
 
-Software Copyright
+Computer Software Copyrights
 ======
 * Zhenbo Li and **Guangyao Li** etc., Shellfish seedling pest and disease intelligent diagnosis platform system V1.0，Authorization Registration Number: 2018SRBJ1250
 * Zhenbo Li and **Guangyao Li** etc., Four-axis aircraft control system based on C language and single chip technology V1.0，Authorization Registration Number: 2018SRBJ1248
@@ -70,13 +82,9 @@ Honors
 * Merit Student, China Agricultural University, 2018
 * National Encouragement scholarship, Tianjin Agricultural University, 2016
 * The First Prize Scholarship, China Agricultural University, 2016
+* Merit Student, Tianjin Agricultural University, 2015
 
-Hobbies
-======
-* Play badminton
-* Photography
-
-Work experience
+Work Experience
 ======
 * Fall 2018: Course Assistant
   * China Agricultural University
@@ -87,6 +95,11 @@ Work experience
   * China Agricultural University
   * Duties included: Teaching secretary
   * Course Title: Computer Vision Algorithm and Application
+
+Hobbies
+======
+* Play badminton
+* Photography
 
 {::comment}
 Talks
