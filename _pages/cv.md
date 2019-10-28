@@ -47,11 +47,10 @@ Publications
 * Zhenbo Li, **Guangyao Li**, et al. Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review. <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (SCI, Under Review (Submitted:23/10/2018))
 * Zhenbo Li, **Guangyao Li**, et al. Sea cucumber image dehazing method by fusion of Retinex and dark channel. <i>IFAC PapersOnLine</i>,51-17,2018,796–801. (EI)
 * Bingshan Niu, **Guangyao Li**, et al. Survey of Fish Behavior Analysis by Computer Vision. <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534.
-<!--
-  <ul>{% for post in site.publications %}
+
+[//]: # (  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+  {% endfor %}</ul> )
 
 Invention Patents
 ======
