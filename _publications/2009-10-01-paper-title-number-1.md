@@ -3,10 +3,10 @@ title: "Shellfish Detection based on Fusion Attention Mechanism in End-to-End Ne
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-12-01
+date: 2019-10-01
 venue: 'PRCV2019'
 paperurl: 'http://ayameyao.github.io/files/paper1.pdf'
-* Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).
+citation: 'Guangyao Li, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV2019)</i>. (Accepted).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
