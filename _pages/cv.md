@@ -48,7 +48,11 @@ Publications
 * Zhenbo Li, **Guangyao Li**, et al. [Sea cucumber image dehazing method by fusion of Retinex and dark channel](https://ayameyao.github.io/publication/2018-IFAC). <i>IFAC PapersOnLine</i>,51-17,2018,796–801. 
 * Bingshan Niu, **Guangyao Li**, et al. [Survey of Fish Behavior Analysis by Computer Vision](https://ayameyao.github.io/publication/2018-IFAC). <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534.
 
-
+{::comment}
+<ul>{% for post in site.publications %} 
+{% include archive-single-cv.html %} 
+{% endfor %}</ul> 
+{:/comment}
 
 Invention Patents
 ======
