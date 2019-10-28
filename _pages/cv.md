@@ -33,9 +33,7 @@ Projects
 Professional Skills
 ======
 * Familiar with programming languages such as C, Python, Java, MATLAB
-* Familiar with the basic framework of deep learning
-  * Caffe
-  * TensorFlow
+* Familiar with the basic framework of deep learning such as Caffe and TensorFlow
 * Familiar with the basic methods of writing SCI/EI papers
 * Familiar with basic theories such as machine learning/deep learning
 * Familiar with the frontier development direction and mainstream algorithms in the field of computer vision
@@ -66,7 +64,7 @@ Software Copyright
 * Zhenbo Li and **Guangyao Li** etc., Four-axis aircraft control system based on C language and single chip technology V1.0，Authorization Registration Number: 2018SRBJ1248
 * Zhenbo Li and **Guangyao Li** etc., Music portal system based on Bootstrap technology V1.0，Authorization Registration Number: 2018SRBJ1251
 
-Honor
+Honors
 ======
 * The First Prize Scholarship, China Agricultural University, 2018
 * Merit Student, China Agricultural University, 2018
@@ -90,6 +88,7 @@ Work experience
   * Duties included: Teaching secretary
   * Course Title: Computer Vision Algorithm and Application
 
+{::comment}
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -105,5 +104,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
+{:/comment}
 
