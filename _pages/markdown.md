@@ -1,11 +1,25 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Recommend some learning resources"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+## Convolutional Neural Networks
+**Presenter:**  Andrew Ng
+**Offered:**  deeplearning.ai
+**link:**  [https://www.coursera.org/learn/convolutional-neural-networks](https://www.coursera.org/learn/convolutional-neural-networks)
+**About this Course:**  This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
+
+## 深度学习工程师
+**主讲人：**  吴恩达
+**来源：**  网易云课堂
+**链接：**  [https://mooc.study.163.com/smartSpec/detail/1001319001.htm](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+**课程介绍：**  由 deeplearning.ai 出品，网易引进的正版授权中文版深度学习工程师微专业课程，让你在了解丰富的人工智能应用案例的同时，学会在实践中搭建出最先进的神经网络模型，训练出属于你自己的 AI。
+
+
 
 {::comment}
 ## Locations of key files/directories
