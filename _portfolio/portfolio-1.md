@@ -1,6 +1,6 @@
 ---
 title: "Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network"
-excerpt: "We built a shellfish dataset containing 3772 images in 7 categories, all of which were manually labeled and verified. And the experimental results achieved an accuracy of 95.38% and a detection speed of 33ms per picture (Click on the title for details).<br/><img src='/images/shellfish.png'>"
+excerpt: "We built a shellfish dataset containing 3772 images in 7 categories, all of which were manually labeled and verified. And the experimental results achieved an accuracy of 95.38% and a detection speed of 33ms per picture (Click on the title for details). <br/><img src='/images/shellfish.png'>"
 collection: portfolio
 ---
 
