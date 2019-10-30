@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae [PDF](http://ayameyao.github.io/files/liguangyao-resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,8 +24,8 @@ Research Areas
 * Computer Vision
   * Object Detection
   * Behavior Analysis
-  * Image restoration
-* Agricultural informationization
+  * Image Restoration
+* Agricultural Informationization
  
 Professional Skills
 ======
