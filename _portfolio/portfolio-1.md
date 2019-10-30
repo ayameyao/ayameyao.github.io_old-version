@@ -1,7 +1,8 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/shellfish.png'>"
+excerpt: "We built a shellfish dataset containing 3772 images in 7 categories, all of which were manually labeled and verified. And the experimental results achieved an accuracy of 95.38% and a detection speed of 33ms per picture (Click on the title for details).<br/><img src='/images/shellfish.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Object detection has many difficulties and challenges in the agricultural field, mainly due to the lack of data and the complexity of the agricultural environment. Therefore, we built a shellfish dataset containing 3772 images in 7 categories, all of which were manually labeled and verified. In addition, based on the SSD model framework, we used the lightweight MobileNet-v2 classification network to replace the original VGG16 network, and introduced a residual attention mechanism between the classification network and the prediction convolution layer. This could not only lead to a better capture the local features of the images, but also meet the needs of real-time and mobile use. The experimental results show that the performance of our model on the shellfish dataset is better than the current mainstream target detection models. And the verification results achieved an accuracy of 95.38% and a detection speed of 33ms per picture, indicating that the validity of the model we proposed.
+<br/><br/><img src='/images/shellfish.png'>
