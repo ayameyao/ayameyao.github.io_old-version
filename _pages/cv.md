@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae [PDF](http://ayameyao.github.io/files/liguangyao-resume.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Click here for PDF version: [PDF](http://ayameyao.github.io/files/liguangyao-resume.pdf)
 
 Education
 ======
