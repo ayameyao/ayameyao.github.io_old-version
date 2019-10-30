@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 My name is Lee Kuan Yew and I am pursuing my master's degree in computer science and technology at [China Agricultural University (CAU)](https://www.cau.edu.cn/). I am very interested in computer vision and image processing and its application in agriculture. Since I enrolled in CAU, I have carefully studied basic theoretical knowledge such as machine learning and statistical learning methods. Moreover, the algorithm model such as target detection has been practiced, and some achievements have been made. Of Course, I hope to continue to engage in research in related fields.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently I have published two papers ([PRCV2019](https://ayameyao.github.io/publication/2019-PRCV)，[IFAC2018](https://ayameyao.github.io/publication/2018-IFAC)) as the first author (except [my tutor](http://faculty.cau.edu.cn/xxdqxy/lzb/list.htm)), both of which have been searched by the EI database. And another paper has been submitted to COMPUTERS AND ELECTRONICS IN AGRICULTURE in October 2018, but the current state is still in under review. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. Meanwhile, I have also participated in projects such as international cooperation projects and key research and development programs.
-
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently I have published two papers ([<i>PRCV2019</i>](https://ayameyao.github.io/publication/2019-PRCV)，[<i>IFAC2018</i>](https://ayameyao.github.io/publication/2018-IFAC)) as the first author (except [my tutor](http://faculty.cau.edu.cn/xxdqxy/lzb/list.htm)), both of which have been searched by the EI database. And another paper has been submitted to <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i> in October 2018, but the current state is still in under review. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. Meanwhile, I have also participated in projects such as international cooperation projects and key research and development programs.
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a student, I have won some honors, such as the first prize scholarship, merit student, National Encouragement scholarship, the national third prize of the Chinese Computer Design Competition, the provincial second prize of the mathematical modeling competition, and the provincial second prize of the Lan-Qiao Cup Programming Competition. 
-
+<br/>
 If you want to know more, you can visit other pages on my personal homepage.
-
-If your native language is Chinese, welcome to visit my [CSDN homepage](https://blog.csdn.net/CAU_Ayao).
+<br/>
+If your native language is Chinese, welcome to visit my [**CSDN Homepage**](https://blog.csdn.net/CAU_Ayao).
 
 About the main content of my graduation thesis
 ======
