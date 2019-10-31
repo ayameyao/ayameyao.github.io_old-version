@@ -13,7 +13,7 @@ redirect_from:
 **Course link:**  [English](https://www.coursera.org/learn/convolutional-neural-networks) or [Chinese](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)<br/>
 **About this Course:**  This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
 
-## CS231n: Convolutional Neural Networks for Visual RecognitionS
+## CS231n: Convolutional Neural Networks for Visual Recognition
 **Presenter:**  Fei-Fei Li<br/>
 **Offered:**  [STANFORD VISION AND LEARNING LAB](http://vision.stanford.edu/index.html), Stanford University<br/>
 **Course link:**  [English](http://cs231n.stanford.edu/) or [Chinese](https://www.bilibili.com/video/av58778425?from=search&seid=16451936201656749711)<br/>
