@@ -56,7 +56,7 @@ Project Experience
 Publications
 ======
 * Zhenbo Li, **Guangyao Li**, et al. [Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review](https://ayameyao.github.io/publication/2018-CEA). <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Under Review)
-* Guangyao Li, Zhenbo Li, et al. [Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network](https://ayameyao.github.io/publication/2019-PRCV). <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham.
+* **Guangyao Li**, Zhenbo Li, et al. [Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network](https://ayameyao.github.io/publication/2019-PRCV). <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham.
 * Zhenbo Li, **Guangyao Li**, et al. [Sea cucumber image dehazing method by fusion of Retinex and dark channel](https://ayameyao.github.io/publication/2018-IFAC). <i>IFAC PapersOnLine</i>,51-17,2018,796–801. 
 * Bingshan Niu, **Guangyao Li**, et al. [Survey of Fish Behavior Analysis by Computer Vision](https://ayameyao.github.io/publication/2018-IFAC). <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534.
 
