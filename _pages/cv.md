@@ -19,6 +19,7 @@ Education
 
 Exchange Experience Abroad
 ======
+* [2020 Digital Agriculture Hackathon](http://eship.cornell.edu/hackathons/), Cornell University, Ithaca New York, USA, 02/2020 (expected)
 * The Iowa (US)‐Southeast Asia biodiversity conference, Iowa State University, USA, 09/2019
 
 Research Areas
@@ -83,7 +84,7 @@ Honors
 * The First Prize Scholarship, China Agricultural University, 2018
 * Merit Student, China Agricultural University, 2018
 * National Encouragement scholarship, Tianjin Agricultural University, 2016
-* The First Prize Scholarship, China Agricultural University, 2016
+* The First Prize Scholarship, Tianjin Agricultural University, 2016
 * Merit Student, Tianjin Agricultural University, 2015
 
 Work Experience
