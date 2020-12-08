@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-My name is Li Guangyao and I am pursuing my master's degree in computer science and technology at [China Agricultural University (CAU)](https://www.cau.edu.cn/). I am very interested in computer vision and image processing and its application in agriculture. Since I enrolled in [CAU](https://www.cau.edu.cn/), I have carefully studied basic theoretical knowledge such as machine learning and statistical learning methods. Moreover, the algorithm model such as object detection has been practiced, and some achievements have been made. Of Course, I hope to continue to engage in research in related fields.
-<br/>
+My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI). I received my M.E. degree from [China Agricultural University (CAU)](https://www.cau.edu.cn/) in 2020.
+<!-- pursuing my master's degree in computer science and technology at [China Agricultural University (CAU)](https://www.cau.edu.cn/). I am very interested in computer vision and image processing and its application in agriculture. Since I enrolled in [CAU](https://www.cau.edu.cn/), I have carefully studied basic theoretical knowledge such as machine learning and statistical learning methods. Moreover, the algorithm model such as object detection has been practiced, and some achievements have been made. Of Course, I hope to continue to engage in research in related fields.
+<br/> -->
 
-Currently I have published two papers ([<i>PRCV2019</i>](https://ayameyao.github.io/publication/2019-PRCV)，[<i>IFAC2018</i>](https://ayameyao.github.io/publication/2018-IFAC)) as the first author (except [my tutor](http://faculty.cau.edu.cn/xxdqxy/lzb/list.htm)) and another paper has been submitted to <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i> in October 2018, but the current status is still in “<i>Ready for Decision</i>”. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. Meanwhile, I have also participated in projects such as international cooperation projects and key research and development programs.
+<!-- Currently I have published two papers ([<i>PRCV2019</i>](https://ayameyao.github.io/publication/2019-PRCV)，[<i>IFAC2018</i>](https://ayameyao.github.io/publication/2018-IFAC)) as the first author (except [my tutor](http://faculty.cau.edu.cn/xxdqxy/lzb/list.htm)) and another paper has been submitted to <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i> in October 2018, but the current status is still in “<i>Ready for Decision</i>”. In addition, I have applied for three invention patents that have been published, and three computer software copyrights have also been authorized. Meanwhile, I have also participated in projects such as international cooperation projects and key research and development programs.
 <br/>
 
 As a student, I have won some honors, such as the first prize scholarship, merit student, National Encouragement scholarship, the national third prize of the Chinese Computer Design Competition, the provincial second prize of the mathematical modeling competition, and the provincial second prize of the Lan-Qiao Cup Programming Competition. 
-<br/>
+<br/> -->
 
-If you want to know more, you can visit my [**CV**](https://ayameyao.github.io/cv/) or other pages on my personal homepage.
+<!-- If you want to know more, you can visit my [**CV**](https://ayameyao.github.io/cv/) or other pages on my personal homepage. -->
 <br/>
 
 If your native language is Chinese, welcome to visit my [**CSDN Homepage**](https://blog.csdn.net/CAU_Ayao).
 
-About the main content of my graduation thesis
+<!-- About the main content of my graduation thesis
 ======
-More information will be updated later, please be patient, thank you very much!
+More information will be updated later, please be patient, thank you very much! -->
 
 {::comment}
 Getting started
