@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-<!-- * B.S. Software Engineering, Tianjin Agricultural University, 09/2013-06/2017
-* B.S. Software Engineering, Tianjin Institute of Software Engineering, 09/2016-06/2017 -->
 * M.S. Computer Science and Technology, China Agricultural University, 09/2017-06/2020
+* B.S. Software Engineering, Tianjin Institute of Software Engineering, 09/2016-06/2017
+* B.S. Software Engineering, Tianjin Agricultural University, 09/2013-06/2017
 
 Exchange Experience Abroad
 ======
