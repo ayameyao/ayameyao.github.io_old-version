@@ -15,8 +15,8 @@ My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School
 <br/>
 
 My research recent interests are:
-- Audio-Visual Question Answering
-- Audio-Visual Action Recognition
+* Audio-Visual Question Answering
+* Audio-Visual Action Recognition
 
 
 ### Publications
