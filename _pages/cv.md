@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click here for PDF version: [PDF](http://ayameyao.github.io/files/liguangyao-resume.pdf)
+<!-- Click here for PDF version: [PDF](http://ayameyao.github.io/files/liguangyao-resume.pdf) -->
 
 Education
 ======
@@ -24,20 +24,17 @@ Exchange Experience Abroad
 
 Research Areas
 ======
-* Computer Vision
-  * Object Detection
-  * Behavior Analysis
-  * Image Restoration
-* Agricultural Informationization
+* Audio-Visual Question Answering
+* Audio-Visual Action Recognition
  
-Professional Skills
+<!-- Professional Skills
 ======
-* Familiar with programming languages such as C, Python, Java, MATLAB
+* C, Python, Java, MATLAB, etc.
 * Familiar with the basic framework of deep learning such as Caffe and TensorFlow
 * Familiar with the basic methods of writing SCI/EI papers
 * Familiar with basic theories such as machine learning/deep learning
 * Familiar with the frontier development direction and mainstream algorithms in the field of computer vision
-* Familiar with the use of PS/PR and other image/video processing tools
+* Familiar with the use of PS/PR and other image/video processing tools -->
 
 Competition Experience
 ======

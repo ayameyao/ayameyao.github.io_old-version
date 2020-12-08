@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Li Guangyao / 李光耀"
 title_separator          : "-"
 name                     : &name "Li Guangyao"
-description              : &description "Master student"
+description              : &description "PhD Candidate"
 url                      : https://ayameyao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayameyao/ayameyao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Li Guangyao"
   avatar           : "profile.png"
-  bio              : "Master Student"
+  bio              : "PhD Candidate"
   location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "liguangyao@cau.edu.cn"
+  email            : "guangyaoli@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
