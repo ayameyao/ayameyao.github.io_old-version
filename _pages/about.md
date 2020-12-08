@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
-<br/>
+
+
 <B>Email:</B> guangyaoli@ruc.edu.cn
 <br/>
 
@@ -18,21 +19,21 @@ My research recent interests are:
 - Audio-Visual Action Recognition
 
 
-Publications
-======
-* Zhenbo Li, **Guangyao Li**, et al. [Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review](https://ayameyao.github.io/publication/2018-CEA). <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Ready for Decision (Submitted:23/10/2018))
-* **Guangyao Li**, Zhenbo Li, et al. [Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network](https://ayameyao.github.io/publication/2019-PRCV). <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham.
-* Zhenbo Li, **Guangyao Li**, et al. [Sea cucumber image dehazing method by fusion of Retinex and dark channel](https://ayameyao.github.io/publication/2018-IFAC). <i>IFAC PapersOnLine</i>,51-17,2018,796–801. 
-* Bingshan Niu, **Guangyao Li**, et al. [Survey of Fish Behavior Analysis by Computer Vision](https://ayameyao.github.io/publication/2018-IFAC). <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534.
+### Publications
 
-Computer Software Copyrights
-======
+* Zhenbo Li, **Guangyao Li**, et al. Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review. <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Ready for Decision (Submitted:23/10/2018)) [link](https://ayameyao.github.io/publication/2018-CEA)
+* **Guangyao Li**, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham. [link](https://ayameyao.github.io/publication/2019-PRCV)
+* Zhenbo Li, **Guangyao Li**, et al. Sea cucumber image dehazing method by fusion of Retinex and dark channel. <i>IFAC PapersOnLine</i>,51-17,2018,796–801. [link](https://ayameyao.github.io/publication/2018-IFAC)
+* Bingshan Niu, **Guangyao Li**, et al. Survey of Fish Behavior Analysis by Computer Vision. <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534. [link](https://ayameyao.github.io/publication/2018-IFAC)
+
+### Computer Software Copyrights
+
 * Zhenbo Li and **Guangyao Li** etc., Shellfish seedling pest and disease intelligent diagnosis platform system V1.0，Authorization Registration Number: 2018SRBJ1250
 * Zhenbo Li and **Guangyao Li** etc., Four-axis aircraft control system based on C language and single chip technology V1.0，Authorization Registration Number: 2018SRBJ1248
 * Zhenbo Li and **Guangyao Li** etc., Music portal system based on Bootstrap technology V1.0，Authorization Registration Number: 2018SRBJ1251
 
-Invention Patents
-======
+### Invention Patents
+
 * Zhenbo Li and **Guangyao Li** etc., Method and system for defogging enhancement of underwater sea cucumber image，2018.10.12，CN108648160A，China
 * Zhenbo Li and **Guangyao Li** etc., A dangerous behavior recognition method in family environment，2018.09.14，CN108537105A，China
 * Zhenbo Li and **Guangyao Li** etc., Object detection method and device for shellfish image，2019.05.28，201910450044.7, China
