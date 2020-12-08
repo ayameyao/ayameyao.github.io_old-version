@@ -11,7 +11,7 @@ redirect_from:
 My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
 
 <br/>
-Email: guangyaoli@ruc.edu.cn
+<B>Email:</B> guangyaoli@ruc.edu.cn
 <br/>
 
 My research recent interests are:
