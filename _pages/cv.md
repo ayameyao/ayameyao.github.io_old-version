@@ -80,9 +80,6 @@ Honors
 ======
 * The First Prize Scholarship, China Agricultural University, 2018
 * Merit Student, China Agricultural University, 2018
-<!-- * National Encouragement scholarship, Tianjin Agricultural University, 2016
-* The First Prize Scholarship, Tianjin Agricultural University, 2016 -->
-<!-- * Merit Student, Tianjin Agricultural University, 2015 -->
 
 Work Experience
 ======
