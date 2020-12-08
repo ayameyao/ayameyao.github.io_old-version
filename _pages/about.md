@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
-
 <br/>
 <B>Email:</B> guangyaoli@ruc.edu.cn
 <br/>
@@ -17,6 +16,29 @@ My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School
 My research recent interests are:
 - Audio-Visual Question Answering
 - Audio-Visual Action Recognition
+
+
+Publications
+======
+* Zhenbo Li, **Guangyao Li**, et al. [Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review](https://ayameyao.github.io/publication/2018-CEA). <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Ready for Decision (Submitted:23/10/2018))
+* **Guangyao Li**, Zhenbo Li, et al. [Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network](https://ayameyao.github.io/publication/2019-PRCV). <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham.
+* Zhenbo Li, **Guangyao Li**, et al. [Sea cucumber image dehazing method by fusion of Retinex and dark channel](https://ayameyao.github.io/publication/2018-IFAC). <i>IFAC PapersOnLine</i>,51-17,2018,796–801. 
+* Bingshan Niu, **Guangyao Li**, et al. [Survey of Fish Behavior Analysis by Computer Vision](https://ayameyao.github.io/publication/2018-IFAC). <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534.
+
+Computer Software Copyrights
+======
+* Zhenbo Li and **Guangyao Li** etc., Shellfish seedling pest and disease intelligent diagnosis platform system V1.0，Authorization Registration Number: 2018SRBJ1250
+* Zhenbo Li and **Guangyao Li** etc., Four-axis aircraft control system based on C language and single chip technology V1.0，Authorization Registration Number: 2018SRBJ1248
+* Zhenbo Li and **Guangyao Li** etc., Music portal system based on Bootstrap technology V1.0，Authorization Registration Number: 2018SRBJ1251
+
+Invention Patents
+======
+* Zhenbo Li and **Guangyao Li** etc., Method and system for defogging enhancement of underwater sea cucumber image，2018.10.12，CN108648160A，China
+* Zhenbo Li and **Guangyao Li** etc., A dangerous behavior recognition method in family environment，2018.09.14，CN108537105A，China
+* Zhenbo Li and **Guangyao Li** etc., Object detection method and device for shellfish image，2019.05.28，201910450044.7, China
+
+
+
 <!-- pursuing my master's degree in computer science and technology at [China Agricultural University (CAU)](https://www.cau.edu.cn/). I am very interested in computer vision and image processing and its application in agriculture. Since I enrolled in [CAU](https://www.cau.edu.cn/), I have carefully studied basic theoretical knowledge such as machine learning and statistical learning methods. Moreover, the algorithm model such as object detection has been practiced, and some achievements have been made. Of Course, I hope to continue to engage in research in related fields.
 <br/> -->
 
