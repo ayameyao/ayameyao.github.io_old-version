@@ -13,13 +13,13 @@ Click here for PDF version: [PDF](http://ayameyao.github.io/files/liguangyao-res
 
 Education
 ======
-* B.S. Software Engineering, Tianjin Agricultural University, 09/2013-06/2017
-* B.S. Software Engineering, Tianjin Institute of Software Engineering, 09/2016-06/2017
-* M.S. Computer Science and Technology, China Agricultural University, 09/2017-06/2020 (expected)
+<!-- * B.S. Software Engineering, Tianjin Agricultural University, 09/2013-06/2017
+* B.S. Software Engineering, Tianjin Institute of Software Engineering, 09/2016-06/2017 -->
+* M.S. Computer Science and Technology, China Agricultural University, 09/2017-06/2020
 
 Exchange Experience Abroad
 ======
-* [2020 Digital Agriculture Hackathon](http://eship.cornell.edu/hackathons/), Cornell University, Ithaca New York, USA, 02/2020 (expected)
+<!-- * [2020 Digital Agriculture Hackathon](http://eship.cornell.edu/hackathons/), Cornell University, Ithaca New York, USA, 02/2020 (expected) -->
 * The Iowa (US)‐Southeast Asia biodiversity conference, Iowa State University, USA, 09/2019
 
 Research Areas
@@ -83,9 +83,9 @@ Honors
 ======
 * The First Prize Scholarship, China Agricultural University, 2018
 * Merit Student, China Agricultural University, 2018
-* National Encouragement scholarship, Tianjin Agricultural University, 2016
-* The First Prize Scholarship, Tianjin Agricultural University, 2016
-* Merit Student, Tianjin Agricultural University, 2015
+<!-- * National Encouragement scholarship, Tianjin Agricultural University, 2016
+* The First Prize Scholarship, Tianjin Agricultural University, 2016 -->
+<!-- * Merit Student, Tianjin Agricultural University, 2015 -->
 
 Work Experience
 ======

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Li Guangyao's websites"
+title: "Short bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,8 +11,7 @@ redirect_from:
 My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), [Renmin University of China (RUC)](https://www.ruc.edu.cn/). I received my M.E. degree from [China Agricultural University (CAU)](https://www.cau.edu.cn/) in 2020.
 <br/>
 
-Research Areas
-======
+My research recent interests are:
 - Audio-Visual Question Answering
 - Audio-Visual Action Recognition
 <!-- pursuing my master's degree in computer science and technology at [China Agricultural University (CAU)](https://www.cau.edu.cn/). I am very interested in computer vision and image processing and its application in agriculture. Since I enrolled in [CAU](https://www.cau.edu.cn/), I have carefully studied basic theoretical knowledge such as machine learning and statistical learning methods. Moreover, the algorithm model such as object detection has been practiced, and some achievements have been made. Of Course, I hope to continue to engage in research in related fields.
