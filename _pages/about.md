@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Li Guangyao and I am a first-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
+My name is Li Guangyao and I am a second-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
 
+[Google Scholar](www.baidu.com)
+[CSDN](www.baidu.com)
+[Zhihu](www.baidu.com)
 
 <B>Email:</B> <font color='blue'>guangyaoli@ruc.edu.cn</font>
 <br/>
 
 My research recent interests are:
 * MultiModal Machine Learning
-* Human Action Recognition
+* MultiModal Scene Understanding
 
 
 ### Publications
 
-* Zhenbo Li, **Guangyao Li**, et al. Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review. <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Ready for Decision (Submitted:23/10/2018)) [link](https://ayameyao.github.io/publication/2018-CEA)
+<!-- * Zhenbo Li, **Guangyao Li**, et al. Research on Aquatic Animal Behavior Tracking and Analysis Technology Based on Computer Vision: A review. <i>COMPUTERS AND ELECTRONICS IN AGRICULTURE</i>. (Ready for Decision (Submitted:23/10/2018)) [link](https://ayameyao.github.io/publication/2018-CEA) -->
 * **Guangyao Li**, Zhenbo Li, et al. Shellfish Detection based on Fusion Attention Mechanism in End-to-End Network. <i>In: Lin Z. et al. (eds) Pattern Recognition and Computer Vision. PRCV2019</i>. Lecture Notes in Computer Science, vol 11859, 2019, Springer, Cham. [link](https://ayameyao.github.io/publication/2019-PRCV)
 * Zhenbo Li, **Guangyao Li**, et al. Sea cucumber image dehazing method by fusion of Retinex and dark channel. <i>IFAC PapersOnLine</i>,51-17,2018,796–801. [link](https://ayameyao.github.io/publication/2018-IFAC)
 * Bingshan Niu, **Guangyao Li**, et al. Survey of Fish Behavior Analysis by Computer Vision. <i>Journal of Aquaculture Research & Development</i>. 2018,9(5):534. [link](https://ayameyao.github.io/publication/2018-IFAC)
