@@ -10,9 +10,10 @@ redirect_from:
 
 My name is Li Guangyao and I am a second-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
 
-[Google Scholar](www.baidu.com)
-[CSDN](www.baidu.com)
-[Zhihu](www.baidu.com)
+\[[Google Scholar](www.baidu.com)\]&nbsp;
+\[[Zhihu](https://www.zhihu.com/people/li-guang-yao-67-97/posts)\]&nbsp;
+\[[CSDN](https://blog.csdn.net/CAU_Ayao)\]&nbsp;
+
 
 <B>Email:</B> <font color='blue'>guangyaoli@ruc.edu.cn</font>
 <br/>
@@ -20,6 +21,11 @@ My name is Li Guangyao and I am a second-year PhD Candidate in the Gaoling Schoo
 My research recent interests are:
 * MultiModal Machine Learning
 * MultiModal Scene Understanding
+
+---
+- 昨夜西风凋碧树。独上高楼，望尽天涯路。
+- 衣带渐宽终不悔，为伊消得人憔悴。
+- 众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。
 
 
 ### Publications
