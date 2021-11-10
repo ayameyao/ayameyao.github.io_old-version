@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Li Guangyao and I am a second-year PhD Candidate in the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China.<!--  I received my <i>M.E</i>. degree from China Agricultural University in 2020. -->
 
-\[[Google Scholar](www.baidu.com)\]&nbsp;
+\[[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=i_KZwgQAAAAJ)\]&nbsp;
 \[[Zhihu](https://www.zhihu.com/people/li-guang-yao-67-97/posts)\]&nbsp;
 \[[CSDN](https://blog.csdn.net/CAU_Ayao)\]&nbsp;
 
@@ -26,7 +26,7 @@ My research recent interests are:
 - 昨夜西风凋碧树。独上高楼，望尽天涯路。
 - 衣带渐宽终不悔，为伊消得人憔悴。
 - 众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。
-
+---
 
 ### Publications
 
@@ -61,7 +61,7 @@ As a student, I have won some honors, such as the first prize scholarship, merit
 <!-- If you want to know more, you can visit my [**CV**](https://ayameyao.github.io/cv/) or other pages on my personal homepage. -->
 <br/>
 
-If your native language is Chinese, welcome to visit my [**CSDN Homepage**](https://blog.csdn.net/CAU_Ayao).
+<!-- If your native language is Chinese, welcome to visit my [**CSDN Homepage**](https://blog.csdn.net/CAU_Ayao). -->
 
 <!-- About the main content of my graduation thesis
 ======
